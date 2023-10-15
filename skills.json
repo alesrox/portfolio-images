@@ -1,0 +1,87 @@
+[
+    {
+        "ID": 1,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/bash.png",
+        "name": "Bash"
+    },
+    {
+        "ID": 2,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/python.png",
+        "name": "Python"
+    },
+    {
+        "ID": 3,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/flask.png",
+        "name": "Flask"
+    },
+    {
+        "ID": 4,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/flet.png",
+        "name": "Flet"
+    },
+    {
+        "ID": 5,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/SwiftUI.png",
+        "name": "SwiftUI"
+    },
+    {
+        "ID": 6,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/node.png",
+        "name": "Node.js & Express.js"
+    },
+    {
+        "ID": 7,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/react.png",
+        "name": "React.js"
+    },
+    {
+        "ID": 8,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/vue.png",
+        "name": "vue.js"
+    },
+    {
+        "ID": 9,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/firebase.png",
+        "name": "Google Firebase"
+    },
+    {
+        "ID": 10,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/sql.png",
+        "name": "SQL"
+    },
+    {
+        "ID": 11,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/html - css - js.png",
+        "name": "HTML5 - CSS3 & JS"
+    },
+    {
+        "ID": 12,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/bootstrap.png",
+        "name": "Bootstrap"
+    },
+    {
+        "ID": 13,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/jquery.png",
+        "name": "JQuery"
+    },
+    {
+        "ID": 14,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/C.png",
+        "name": "C/C++"
+    },
+    {
+        "ID": 15,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/C%23.png",
+        "name": "C#"
+    },
+    {
+        "ID": 16,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/unity.png",
+        "name": "Unity"
+    },
+    {
+        "ID": 17,
+        "img": "https://raw.githubusercontent.com/alesrox/portfolio-images/main/skills_image/excel.png",
+        "name": "Excel"
+    }
+]
